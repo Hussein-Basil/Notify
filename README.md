@@ -56,7 +56,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Thanks to [Your Name] for leading the Android development workshop.
+- Thanks to `Mohamed Taqy` for leading the Android development workshop.
 - Special thanks to the contributors of the libraries used in this project.
 
 ---
